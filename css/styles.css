@@ -1,0 +1,14 @@
+h2.intro {
+  text-align: center;
+  font-weight: lighter;
+  color: pink;
+}
+
+img.intro {
+  opacity: .5;
+}
+
+p.intro {
+  font-size: 10px;
+  color: gray;;
+}
